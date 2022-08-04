@@ -1,3 +1,2 @@
-# Projeto-Ex de ficação - Palindromo
-Saber se um numero é Palindromo
-
+ #Saber se uma frase é Palindromo!  
+ 
