@@ -1,2 +1,3 @@
-# Projeto-dois
-Saber se um número é Palindromo 
+# Projeto-Ex de ficação - Palindromo
+Saber se um numero é Palindromo
+
